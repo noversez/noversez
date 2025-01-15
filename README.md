@@ -18,8 +18,18 @@ Hi there! I'm a **Frontend Developer** passionate about building modern, perform
 ---
 
 ## 🌟 What I Do:
-- Develop scalable web applications with a strong focus on user experience.
-- Optimize front-end performance and maintain code quality.
-- Continuously learn new technologies to stay ahead in the industry.
+<div align="center">
+  <ul style="list-style: none; text-align: left;">
+    <li>💻 Build scalable and performant web applications.</li>
+    <li>🚀 Focus on delivering smooth and engaging user experiences.</li>
+    <li>📚 Stay curious and continuously learn cutting-edge technologies.</li>
+  </ul>
+</div>
 
-![husky](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlkbW1oYXR0YW44dDR2eHkxaWpvdW44ZGVpbjNxNnNqamtuYWhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jN3GziOKUEmI/giphy.gif)
+---
+
+## 🐾 My Spirit Animal:
+<div align="center">
+  <p>Meet my coding companion, a husky who's as energetic and focused as I am when solving complex problems! 🐕‍🦺</p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlkbW1oYXR0YW44dDR2eHkxaWpvdW44ZGVpbjNxNnNqamtuYWhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jN3GziOKUEmI/giphy.gif" alt="husky gif" width="400" />
+</div>
