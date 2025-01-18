@@ -17,7 +17,7 @@ Hi there! I'm a **Frontend Developer** passionate about building modern, perform
     <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" alt="Sequelize" />
   </div>
 
-  <h3>🎮 Hobby Technologies:</h3>
+  <h3>🎮 Hobby Technologies: </h3>
   <div>
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue3" />
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
