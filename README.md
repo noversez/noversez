@@ -1,6 +1,6 @@
 # 👨‍💻 Alexey | Frontend Developer
 
-Hi there! I'm a **Frontend Developer** passionate about building modern, performant, and user-friendly web applications using **React**, **Redux**, **TypeScript**, and **JavaScript**.
+Hi there! I'm a **Frontend Developer** passionate about building modern, performant, and user-friendly web applications using **JavaScript**, **TypeScript**, and **React**.
 
 ---
 
