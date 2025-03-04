@@ -24,6 +24,7 @@ Hi there! I'm a **Frontend Developer** passionate about building modern, perform
     <img src="https://img.shields.io/badge/-Puppeteer-5A5A5A?logo=puppeteer&logoColor=white&style=for-the-badge" alt="Puppeteer" />
     <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS" />
     <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" alt="Sequelize" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
   </div>
 </div>
 
