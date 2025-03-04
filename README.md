@@ -14,7 +14,6 @@ Hi there! I'm a **Frontend Developer** passionate about building modern, perform
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
     <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
-    <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" alt="Sequelize" />
   </div>
 
   <h3>🎮 Hobby Technologies: </h3>
@@ -22,6 +21,9 @@ Hi there! I'm a **Frontend Developer** passionate about building modern, perform
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue3" />
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
     <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
+    <img src="https://img.shields.io/badge/-Puppeteer-5A5A5A?logo=puppeteer&logoColor=white&style=for-the-badge" alt="Puppeteer" />
+    <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS" />
+    <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" alt="Sequelize" />
   </div>
 </div>
 
