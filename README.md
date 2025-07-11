@@ -14,6 +14,7 @@ Hi there! I'm a **Frontend Developer** passionate about building modern, perform
   </ul>
 </div>
 
+
 ---
 
 ## 🐾 My Spirit Animal:
@@ -21,3 +22,5 @@ Hi there! I'm a **Frontend Developer** passionate about building modern, perform
   <p>Meet my coding companion, a husky who's as energetic and focused as I am when solving complex problems! 🐕‍🦺</p>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlkbW1oYXR0YW44dDR2eHkxaWpvdW44ZGVpbjNxNnNqamtuYWhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jN3GziOKUEmI/giphy.gif" alt="husky gif" width="400" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=noversez)
