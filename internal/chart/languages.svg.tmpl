@@ -1,0 +1,48 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="{{.Width}}"
+  height="{{.Height}}"
+  viewBox="0 0 {{.Width}} {{.Height}}"
+  role="img"
+  aria-label="Programming languages"
+>
+  <title>Programming languages by repository byte count</title>
+  <style>
+    .lang, .percent, .center-main, .center-sub {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .lang, .percent { font-size: 14px; font-weight: 500; }
+    .lang, .center-main { fill: #e6edf3; }
+    .percent, .center-sub { fill: #8b949e; }
+    .percent { text-anchor: end; }
+    .center-main, .center-sub { text-anchor: middle; }
+    .center-main { font-size: 17px; font-weight: 600; }
+    .center-sub { font-size: 13px; font-weight: 500; }
+  </style>
+
+  <rect x="1" y="1" width="618" height="298" rx="10" fill="#0d1117" stroke="#30363d" />
+
+  {{if .Empty}}
+  <text x="50%" y="50%" text-anchor="middle" class="lang">No language data</text>
+  {{else}}
+  {{range .Segments}}
+  <circle
+    cx="155"
+    cy="150"
+    r="85"
+    fill="none"
+    stroke="{{.Color}}"
+    stroke-width="28"
+    stroke-dasharray="{{.Dash}} {{.Gap}}"
+    stroke-dashoffset="{{.Offset}}"
+    transform="rotate(-90 155 150)"
+  />
+  <circle cx="335" cy="{{.DotY}}" r="6" fill="{{.Color}}" />
+  <text x="350" y="{{.LegendY}}" class="lang">{{.Name}}</text>
+  <text x="585" y="{{.LegendY}}" class="percent">{{.Percentage}}</text>
+  {{end}}
+
+  <text x="155" y="148" class="center-main">{{.TopName}}</text>
+  <text x="155" y="170" class="center-sub">{{.TopPercent}}</text>
+  {{end}}
+</svg>
