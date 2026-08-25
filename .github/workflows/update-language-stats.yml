@@ -3,9 +3,10 @@ name: Update language stats
 on:
   workflow_dispatch:
 
-  schedule:
-    # GitHub Actions cron uses UTC. 09:00 UTC = 12:00 Moscow time.
-    - cron: "0 9 * * *"
+  # Automatic updates are paused. To restore them, uncomment:
+  # schedule:
+  #   # GitHub Actions cron uses UTC. 09:00 UTC = 12:00 Moscow time.
+  #   - cron: "0 9 * * *"
 
 permissions:
   contents: write
