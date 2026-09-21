@@ -1,5 +1,3 @@
-[![Codewars](https://www.codewars.com/users/noversez/badges/large)](https://www.codewars.com/users/noversez)
-
 ## 🐾 My Spirit Animal:
 <div align="center">
   <p>Meet my coding companion, a husky who's as energetic and focused as I am when solving complex problems! 🐕‍🦺</p>
